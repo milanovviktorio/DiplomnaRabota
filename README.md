@@ -50,7 +50,7 @@ HMR (Header Manipulation Rules) представляват правила, ко�
 
 ## Видео
 
-[Видео](/AdditionalMaterials/ViktorioVoIPVideo.mp4)
+[Видео](https://www.youtube.com/watch?v=MmD4CnXwlng&ab_channel=%D0%A2%D0%A3%D0%95%D0%A1)
 
 ## ТУЕС Фест постер
 
